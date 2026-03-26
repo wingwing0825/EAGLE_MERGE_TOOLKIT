@@ -2,8 +2,6 @@
 
 本外掛適用於 Eagle，支援手動拖曳排版與智慧分組，可將多張圖片快速合併為單一輸出圖檔。
 
-![Plugin Logo](./logo.png)
-
 ## 功能重點
 
 - 支援 PNG、JPEG、WebP
